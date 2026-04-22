@@ -5,10 +5,15 @@ This encryption tool that generates self-decrypting HTML files. Encrypt any file
 ⚡ How It Works:
 
 Upload any file (image, PDF, document, ZIP — anything)
+
 Set a password and configure protection settings
+
 Click Encrypt → generates a single .html file
+
 Send that HTML file to anyone (WhatsApp, email, AirDrop, USB — any method)
+
 Recipient opens it in any browser → enters password → downloads the original file
+
 100% client-side. Nothing is ever uploaded to any server. Everything runs in your browser using the native Web Crypto API.
 
 ENcryption format:
