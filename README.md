@@ -2,7 +2,8 @@
 
 This encryption tool that generates self-decrypting HTML files. Encrypt any file, send it to anyone — they just open it in a browser and enter the password to get the original file back. No software installation needed.
 
-⚡ How It Works
+⚡ How It Works:
+
 Upload any file (image, PDF, document, ZIP — anything)
 Set a password and configure protection settings
 Click Encrypt → generates a single .html file
