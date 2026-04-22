@@ -1,4 +1,5 @@
-🔒 CryptoShield
+🔒 CryptoShield:
+
 This encryption tool that generates self-decrypting HTML files. Encrypt any file, send it to anyone — they just open it in a browser and enter the password to get the original file back. No software installation needed.
 
 ⚡ How It Works
