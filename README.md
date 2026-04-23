@@ -22,4 +22,4 @@ ENcryption format:
 │ 16 bytes │ 12 bytes │ Variable length │ 16 bytes │
 └─────────────┴────────────┴──────────────────┴────────────┘
 
-Access it at : https://cryptoshield.space.z.ai/
+Access it at: https://cryptoshield.space.z.ai/
